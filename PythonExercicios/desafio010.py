@@ -1,0 +1,7 @@
+carteira = float(input('Infome seu dinheiro (em reais): R$ '))
+print('Com R${:.2f} reais você pode comprar: '.format(carteira))
+print('USD$ {:.2f} dolares.'.format(carteira / 5.11))
+print('EUR€ {:.2f} euros.'.format(carteira / 5.55))
+print('JPY¥ {:.2f} ienes'.format(carteira / 0.039))
+print('CNY¥ {:.2f} yuans'.format(carteira / 0.75))
+print('RUB₽ {:.2f} rublos'.format(carteira / 0.072))
