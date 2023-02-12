@@ -1,2 +1,4 @@
 from playsound import playsound
-playsound('tema-021.mp3')
+playsound(r'C:\Users\Leo\Documents\Python\CursoemVideo\PythonExercicios\tema-021.mp3')
+
+# mudança para VS Code.
