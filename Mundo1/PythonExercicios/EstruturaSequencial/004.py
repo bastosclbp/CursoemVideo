@@ -1,5 +1,0 @@
-b1 = float(input('Informe a primeira nota: '))
-b2 = float(input('Informe a segunda nota: '))
-b3 = float(input('Informe a terceira nota: '))
-b4 = float(input('Informe a quarta nota: '))
-print('A sua média de notas é: {}'.format((b1 + b2 + b3 + b4) / 4))
